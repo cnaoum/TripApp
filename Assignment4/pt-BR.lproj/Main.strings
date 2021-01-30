@@ -1,0 +1,27 @@
+
+/* Class = "UILabel"; text = "Field3"; ObjectID = "01u-eB-x4y"; */
+"01u-eB-x4y.text" = "Campo3";
+
+/* Class = "UINavigationItem"; title = "List"; ObjectID = "0pV-vB-2Vz"; */
+"0pV-vB-2Vz.title" = "Lista";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "7lz-BW-wo1"; */
+"7lz-BW-wo1.text" = "Destino";
+
+/* Class = "UILabel"; text = "Field1"; ObjectID = "BoW-hD-WjJ"; */
+"BoW-hD-WjJ.text" = "Campo1";
+
+/* Class = "UINavigationItem"; title = "Detail"; ObjectID = "G6W-bY-AnU"; */
+"G6W-bY-AnU.title" = "Detalhes";
+
+/* Class = "UILabel"; text = "Field2"; ObjectID = "RWx-RJ-9aM"; */
+"RWx-RJ-9aM.text" = "Campo2";
+
+/* Class = "UILabel"; text = "Galons"; ObjectID = "k9D-QA-rav"; */
+"k9D-QA-rav.text" = "Galões";
+
+/* Class = "UILabel"; text = "Origin"; ObjectID = "qtl-AM-4S7"; */
+"qtl-AM-4S7.text" = "Origem";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "sgr-Sl-1c2"; */
+"sgr-Sl-1c2.title" = "Editar";
